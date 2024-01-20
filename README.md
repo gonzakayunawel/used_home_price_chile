@@ -26,7 +26,7 @@ Total de superficie en mt2
 
 Superficie construida en mt2: metros de la construcción habitable.
 
-Valor en UF: valor en Unidades de fomentos de la propiedad declarado en el portal (hay avisos que no poseen este valor, por lo cual se generó según el valor de la UF al 2 ó 3 de mayo de 2020 - no lo recuerdo bien jejeje…). Más información sobre la UF en (español) https://es.wikipedia.org/wiki/Unidad_de_fomento (english) https://en.wikipedia.org/wiki/Unidad_de_Fomento
+Valor en UF: valor en Unidades de fomentos de la propiedad declarado en el portal (hay avisos que no poseen este valor, por lo cual se generó según el valor de la UF al 2 ó 3 de mayo de 2020 ). Más información sobre la UF en (español) https://es.wikipedia.org/wiki/Unidad_de_fomento (english) https://en.wikipedia.org/wiki/Unidad_de_Fomento
 
 Valor CLP: Valor en pesos chilenos.
 
@@ -71,7 +71,7 @@ Total surface in mt2
 
 Built surface in mt2: meters of habitable construction.
 
-Value in UF: value in UF of the property declared in the portal (there are notices that do not have this value, so it was generated according to the value of the UF on May 2 or 3, 2020 - I do not remember it well hehehehe...). More information about the UF in (spanish) https://es.wikipedia.org/wiki/Unidad_de_fomento (english) https://en.wikipedia.org/wiki/Unidad_de_Fomento
+Value in UF: value in UF of the property declared in the portal (there are notices that do not have this value, so it was generated according to the value of the UF on May 2 or 3, 2020). More information about the UF in (spanish) https://es.wikipedia.org/wiki/Unidad_de_fomento (english) https://en.wikipedia.org/wiki/Unidad_de_Fomento
 
 Value CLP: Value in Chilean pesos.
 
